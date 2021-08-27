@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aG7re4mckzl09pIB5hGQTYD2JzTHxAKCu9mesILZwLpHx4wPRA9fn85nbFO9Xkqs6d6p7MhRXiaXafARnzzVXg==",
+  "success": true,
+  "projectFilePath": "D:\\PC\\Mahmoud\\COMPUTER\\Itrax\\WebTrainingitrax\\WebTrainingitrax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eldoctor\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\eldoctor\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\eldoctor\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\eldoctor\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\eldoctor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\eldoctor\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
